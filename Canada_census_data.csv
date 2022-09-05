@@ -1,0 +1,45 @@
+﻿"Building permits, by type of structure and type of work, percentage change (x 1,000) c 1 2 3 4 5"
+"Frequency: Monthly"
+"Table: 34-10-0066-02"
+"Release date: 2022-09-01"
+"Geography: Canada, Province or territory, Census metropolitan area, Census agglomeration, Census metropolitan area part"
+""
+""
+
+"Geography","Canada",,,,
+"Type of work","Types of work, total",,,,
+"Variables","Value of permits",,,,
+"Seasonal adjustment 6 7 8","Seasonally adjusted, current 9",,,,
+"Type of structure","July 2021","June 2022","July 2022","June 2022 to July 2022","July 2021 to July 2022"
+,"Dollars",,,,
+"Total residential and non-residential","10,188,947","11,959,048","11,167,521","-6.6","9.6"
+"Total residential","7,103,984","8,298,479","7,582,322","-8.6","6.7"
+"Single dwelling building total","3,130,521","3,810,356","3,594,013","-5.7","14.8"
+"Multiple dwelling building total","3,973,463","4,488,123","3,988,310","-11.1","0.4"
+"Total non-residential","3,084,963","3,660,568","3,585,199","-2.1","16.2"
+"Total industrial","625,993","815,473","677,406","-16.9","8.2"
+"Total commercial","1,654,851","2,068,966","2,070,212","0.1","25.1"
+"Total institutional and governmental","804,119","776,129","837,581","7.9","4.2"
+
+
+"Table Corrections:"
+Date,Note
+"2022-07-29","On July 29, 2022, a correction was made to the scalar factor for variables related to building units and number of permits. Between the latest publication on July 5, 2022 until this correction, the scalar factor indicated the data were in thousands of units but should of indicated the data were in units."
+
+
+
+Footnotes:
+1,"The Building permits survey covers all Canadian municipalities that issue permits. The number of Canadian municipalities currently surveyed is approximately 2,400, representing all the provinces and territories. They account for 95% of the Canadian population. Historically, the data are not strictly comparable due to the continuing improvement in coverage and the modifications to the geographical areas required to reflect the most recent census definitions."
+2,"For historical data see CANSIM tables 026-0001, 026-0002, 026-0003, 026-0004, 026-0005, 026-0006, 026-0007, 026-0008 and 026-0010."
+3,"Data processing methodology has been updated as of January 2018. Comparisons between the previous data and the subsequent data should be used with caution."
+4,"Data for the provincial totals can not be reconciled because data at the census agglomerations and census subdivision levels is not publish in this table."
+5,"Detailed information for all types of work may not be available for all regions, as permit regulations and requirements vary by municipality."
+6,"The methodology to seasonally adjust the building permits data has been changed to better measure the seasonality for Census Metropolitan Areas (CMA) . As such, the seasonally adjusted data found in CANSIM tables 026-0006, 026-0008, 026-0010 are not directly comparable to those in CANSIM table 026-0021."
+7,"The sum may not add up to the total due to rounding."
+8,"Monthly estimates for constant dollars are calculated using quarterly deflators from the Building Construction Price Index (18-10-0135-01). Typically, the first two months of a quarter use the previous quarters’ price level and are revised when the new quarterly price index becomes available."
+9,"Seasonally adjusted data for the total number of housing units as well as for the aggregate value of building permits are obtained indirectly, for example, by adding their seasonally adjusted components. The total number of dwelling units is obtained by summing the seasonally adjusted data for single- and multiple-family units; the total value of building permits is obtained by summing the following elements: residential, industrial, commercial and institutional. Some series contain no apparent seasonality. In these cases, unadjusted values have been tabulated and aggregated to the adjusted values of the other series. At the end of the year, the chronological series adjusted for seasonality are revised to take into account the most recent seasonal fluctuations."
+
+
+
+"How to cite: Statistics Canada. Table 34-10-0066-02  Building permits, by type of structure and type of work, percentage change (x 1,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3410006602
